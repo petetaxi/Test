@@ -11,3 +11,4 @@ Some text added in git.
 
 Lets see if Github breaks the line endings again.
 
+New local branch
