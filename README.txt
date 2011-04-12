@@ -7,3 +7,5 @@ Here is some more text added in git.
 Some text added in VS, and line endings set to Windows.
 
 Some text added in git.
+
+Some text added in git clone.
