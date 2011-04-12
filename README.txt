@@ -4,4 +4,4 @@ Read me text goes here.
 
 Here is some more text added in git.
 
-Added on the web.
+Some text added in VS, and line endings set to Windows.
