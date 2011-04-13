@@ -1,4 +1,3 @@
-
 This project is a dummy to test the way GIT and TFS integrate.
 
 Read me text goes here.
@@ -11,4 +10,6 @@ Some text added in git.
 
 Lets see if Github breaks the line endings again.
 
-New local branch
+New local branch.
+
+Now we have unix line endings, things should go a bit better.
