@@ -1,4 +1,4 @@
-﻿namespace GitTestProject
+namespace GitTestProject
 {
 	partial class Form1
 	{
