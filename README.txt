@@ -15,3 +15,4 @@ New local branch.
 Now we have unix line endings, things should go a bit better.
 
 CHANGE 1
+CHANGE 2
