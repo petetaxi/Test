@@ -1,17 +1,7 @@
 This project is a dummy to test the way GIT and TFS integrate.
 
-Read me text goes here.
+Line 1
 
-Here is some more text added in git.
+Line 2
 
-Some text added in VS, and line endings set to Windows.
-
-Some text added in git.
-
-Lets see if Github breaks the line endings again.
-
-New local branch.
-
-Now we have unix line endings, things should go a bit better.
-
-Another change.
+Line 3
