@@ -8,6 +8,7 @@ using System.Text;
 using System.Windows.Forms;
 
 // Editing on GitHub. Will mess up line endings.
+// Editing on a forked repository
 namespace GitTestProject
 {
 	public partial class Form1 : Form
