@@ -5,3 +5,5 @@ Second change.
 Change made on fork.
 2nd change made on fork.
 Change made after pull request issued.
+
+Local change
